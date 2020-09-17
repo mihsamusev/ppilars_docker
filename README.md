@@ -1,1 +1,1 @@
-# ppilars_docker
+trying to run https://becominghuman.ai/train-a-3-d-object-detection-model-point-pillars-in-a-jupyter-notebook-1911ddd5bfe4 in docker
